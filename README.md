@@ -1,5 +1,4 @@
 # LEETCODE
-08-08-2026 : Striver C++ Basics + lec1+  VS Code Setup 
 
 | S.No | Problem ID | Problem Name | Type | Description | Direct Solution |
 | :---: | :---: | :--- | :--- | :--- | :---: |
