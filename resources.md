@@ -1,1 +1,1 @@
-(PATTERNS DSA FCC)[https://youtu.be/Z_c4byLrNBU?si=nIH5vgNSejP4T-za]
+[PATTERNS DSA FCC](https://youtu.be/Z_c4byLrNBU?si=nIH5vgNSejP4T-za)
