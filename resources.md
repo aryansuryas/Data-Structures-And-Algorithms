@@ -6,4 +6,4 @@ C++ foundations <br>
 time complexity & space complexity   <br>
 notation  <br>
 recursive time complexity <br>
-pattern problems [Love Babar]([https://share.google/FGzCYeOYZy3DlbGxw](https://youtu.be/AWHn2IimUiY?si=GexEf7WAemUbwtMd)) <br>
+pattern problems [Love Babar](https://youtu.be/AWHn2IimUiY?si=GexEf7WAemUbwtMd) <br>
