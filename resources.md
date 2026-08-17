@@ -7,3 +7,12 @@ time complexity & space complexity   <br>
 notation  <br>
 recursive time complexity <br>
 pattern problems [Love Babar](https://youtu.be/AWHn2IimUiY?si=GexEf7WAemUbwtMd) <br>
+ALL THE STL LEARN  vector
+- hash map
+- set
+- unordered set
+- unordered map
+- stack
+- queue
+- priority map
+- priority queue
