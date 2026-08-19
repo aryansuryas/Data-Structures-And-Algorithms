@@ -15,3 +15,4 @@ ALL THE STL LEARN  vector
 - queue
 - priority map
 - priority queue
+ first what is Data structures and algorithm
