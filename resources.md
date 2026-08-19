@@ -10,9 +10,10 @@ pattern problems [Love Babar](https://youtu.be/AWHn2IimUiY?si=GexEf7WAemUbwtMd) 
 ALL THE STL LEARN  vector
 - hash map
 - set , unordered set
-- unordered map
+- unordered map.
 - stack
 - queue
 - priority map
 - priority queue
  first what is Data structures and algorithm
+then conditions
