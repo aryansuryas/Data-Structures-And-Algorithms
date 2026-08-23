@@ -19,3 +19,4 @@ ALL THE STL LEARN  vector
 - priority queue
  first what is Data structures and algorithm
 then conditions
+c++ basics
