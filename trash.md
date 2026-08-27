@@ -1,6 +1,7 @@
 #RR
 08-08-2026 : Striver C++ Basics + lec1+  VS Code Setup 
 time complexity & Space complwxirty
+all files in readme format
 
 up set
 ```
