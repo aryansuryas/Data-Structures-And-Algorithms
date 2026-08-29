@@ -4,7 +4,6 @@ time complexity & Space complwxirty
 all files in readme format
 
 up set
-```
 Act as a LeetCode Repository Markdown Generator. I will give you a list of LeetCode problems I just solved. Your job is to format them into a clean Markdown table for my README.md file. 
 
 The table must have these exact 6 columns:
@@ -25,7 +24,8 @@ Here are the problems I just solved:
 S.No| Problem ID| Problem Name| Type| Description| Direct Solution
 1| 704| "Binary Search" (https://leetcode.com/problems/binary-search/)| Binary Search, Array| Uses two pointers to repeatedly halve the sorted search space. Returns the target index in O(log n) time, or "-1" if absent.| "📄 View Code" (./Problems/704.%20Binary%20Search.cpp)```
 
-```Act as an expert technical content writer and software engineer. I will give you a LeetCode problem number, title, and a working C++ solution. Format it into a clean, highly visual markdown note for my GitHub repository using this exact structure:
+```
+Act as an expert technical content writer and software engineer. I will give you a LeetCode problem number, title, and a working C++ solution. Format it into a clean, highly visual markdown note for my GitHub repository using this exact structure:
 
 1. **# LeetCode [Number]: [Title]**
 2. **## 🎯 Goal**: A brief, simple 1-2 sentence overview explaining what the function calculates/returns and the core technique used (e.g., Binary Search).
