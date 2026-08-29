@@ -23,4 +23,20 @@ Rules:
 Here are the problems I just solved:
 [PASTE YOUR NEW PROBLEMS HERE]
 S.No| Problem ID| Problem Name| Type| Description| Direct Solution
-1| 704| "Binary Search" (https://leetcode.com/problems/binary-search/)| Binary Search, Array| Uses two pointers to repeatedly halve the sorted search space. Returns the target index in O(log n) time, or "-1" if absent.| "📄 View Code" (./Problems/704.%20Binary%20Search.cpp)
+1| 704| "Binary Search" (https://leetcode.com/problems/binary-search/)| Binary Search, Array| Uses two pointers to repeatedly halve the sorted search space. Returns the target index in O(log n) time, or "-1" if absent.| "📄 View Code" (./Problems/704.%20Binary%20Search.cpp)```
+
+```Act as an expert technical content writer and software engineer. I will give you a LeetCode problem number, title, and a working C++ solution. Format it into a clean, highly visual markdown note for my GitHub repository using this exact structure:
+
+1. **# LeetCode [Number]: [Title]**
+2. **## 🎯 Goal**: A brief, simple 1-2 sentence overview explaining what the function calculates/returns and the core technique used (e.g., Binary Search).
+3. **## 🛠️ Code Implementation**: The provided C++ code inside a clean `cpp` markdown code block, with short inline comments explaining key logic lines (e.g., overflow prevention, boundaries shifting).
+4. **## 🔄 Trace Example ([Variables/Inputs Used])**: A markdown execution table detailing the algorithm step-by-step for a realistic test case. The table columns must dynamically match the variables used in the code (e.g., Step, pointers, mid, calculations, conditions, actions, results). Add a bold "Result:" summary sentence right under the table.
+5. **## ⚠️ Edge Cases Handled**: A punchy, bulleted list detailing how the code safely manages edge cases (e.g., empty arrays, single element arrays, integer overflow, target missing, zero/negative inputs).
+6. **## 💡 Key Takeaways**: 2-3 short, high-utility bullet points highlighting the critical interview lessons from this problem (e.g., why mid calculation prevents overflow, why the loop condition is <= instead of <).
+7. **## ⚡ Complexity Analysis**: High-utility bullet points for Time and Space Complexity in O() notation, each containing a brief 1-sentence fragment explanation.
+
+Ensure the output is clean, uses visual anchor emojis for headers, and is wrapped inside a single raw markdown code block so I can copy and paste it into GitHub with one click.
+
+Here is the problem and code to format:
+[Insert Problem Name/Number and Code Here]
+ ```
