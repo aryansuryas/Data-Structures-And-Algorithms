@@ -5,5 +5,5 @@
 -  Coding Practice Websites :   [LeetCode](https://leetcode.com/) || [GeeksforGeeks](https://www.geeksforgeeks.org/) || [HackerRank](https://www.hackerrank.com/) ||  [Codeforces](https://codeforces.com/) ||  [CodeChef](https://www.codechef.com/) ||  [Roadmap.sh](https://roadmap.sh/)
 
 Array
-` Linear
-`[Binary](https://youtu.be/MHf6awe89xw?si=FW439PcAXEBXX5f3)
+~Linear
+~[Binary](https://youtu.be/MHf6awe89xw?si=FW439PcAXEBXX5f3)
