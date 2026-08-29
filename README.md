@@ -6,4 +6,4 @@
 
 Array
 ` Linear
-` [Binary](https://youtu.be/MHf6awe89xw?si=FW439PcAXEBXX5f3)
+`[Binary](https://youtu.be/MHf6awe89xw?si=FW439PcAXEBXX5f3)
