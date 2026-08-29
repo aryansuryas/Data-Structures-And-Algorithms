@@ -22,3 +22,5 @@ Rules:
 
 Here are the problems I just solved:
 [PASTE YOUR NEW PROBLEMS HERE]
+S.No| Problem ID| Problem Name| Type| Description| Direct Solution
+1| 704| "Binary Search" (https://leetcode.com/problems/binary-search/)| Binary Search, Array| Uses two pointers to repeatedly halve the sorted search space. Returns the target index in O(log n) time, or "-1" if absent.| "📄 View Code" (./Problems/704.%20Binary%20Search.cpp)
