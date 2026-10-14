@@ -1,4 +1,4 @@
-/*
+ 
 Given an integer n, return a string array answer (1-indexed) where:
 answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
 answer[i] == "Fizz" if i is divisible by 3.
@@ -18,6 +18,9 @@ Example 3:
 Input: n = 15
 Output: ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]*/
 ==========================================================================================================================
+#include <iostream>
+#include <vector>
+#include <string>
 
  //solution
  class Solution {
@@ -37,3 +40,5 @@ public:
         }
    return  ans;}
 };
+
+ 
