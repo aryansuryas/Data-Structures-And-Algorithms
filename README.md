@@ -3,7 +3,7 @@ imb# DSA
 -  Best website For C++ & DSA complete Roadmap    : [Roadmap.sh](https://roadmap.sh/datastructures-and-algorithms)
 -  DSA Solutions Repositories : [Repo](https://github.com/keineahnung2345)   [Repo](https://github.com/kamyu104/LeetCode-Solutions)
 -  Coding Practice Websites :   [LeetCode](https://leetcode.com/) || [GeeksforGeeks](https://www.geeksforgeeks.org/) || [HackerRank](https://www.hackerrank.com/) ||  [Codeforces](https://codeforces.com/) ||  [CodeChef](https://www.codechef.com/) ||  [Roadmap.sh](https://roadmap.sh/)
-- YT    [Nikoo28)](https://www.youtube.com/@nikoo28) || 
+- YT    [Nikoo28](https://www.youtube.com/@nikoo28) || 
                                 
 Array
 * Linear Search
