@@ -1,5 +1,6 @@
-
-
+412 : FizzBuzz
+1342: no. of steps to reduce a number to zero
+1281 : subtract the product ans sum of digits os a number
 
  
 ALL THE STL LEARN  vector
